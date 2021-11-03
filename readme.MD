@@ -4,7 +4,7 @@ Compressão de imagens com extensão: jpg / jpeg, svg, png, gif.
 Foi utilizado neste projeto o NodeJS.
 
 # Função desse sistema
-Este sistema diminui o tamanho do arquivo e/ou redimensiona a que imagem que você especificar.
+Este sistema diminui o tamanho do arquivo e redimensiona a imagem que você especificar.
 
 # Requisitos
 
