@@ -31,7 +31,7 @@ function compress(pathInput, outputPath) {
             console.log(statistic);
             console.log("-------------");
 
-            fs.unlink(pathInput, function (err){
+            fs.unlink(pathInput, function (err) {
                 if (err) {
                     console.log(err)
                 } else {
